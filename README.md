@@ -37,6 +37,7 @@ cargo add dasp_signal dasp_sample
 
 ```math
 x = \{ x[n] \}, -\infty < n < \infty (2.21)
+
 x[n] = x_a ( nT ), -\infty < n < \infty (2.22)
 ```
 
