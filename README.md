@@ -36,7 +36,8 @@ cargo add dasp_signal dasp_sample
 **DSP sequence**
 
 ```math
-x = \{ x[n] \}, -\infty < n < \infty 
+x = \{ x[n] \}, -\infty < n < \infty (2.21)
+x[n] = x_a ( nT ), -\infty < n < \infty (2.22)
 ```
 
 # References
