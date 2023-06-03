@@ -3,6 +3,8 @@
 
 ```
 cargo add dasp_signal dasp_sample
+```
+> Returns :
 ```yaml
     Updating crates.io index
       Adding dasp_signal v0.11.0 to dependencies.
