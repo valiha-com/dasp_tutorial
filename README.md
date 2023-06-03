@@ -36,7 +36,8 @@ cargo add dasp_signal dasp_sample
 **DSP sequence**
 
 ```math
-``
+x = X(n)
+```
 
 # References
 
