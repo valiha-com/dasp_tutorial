@@ -36,11 +36,12 @@ cargo add dasp_signal dasp_sample
 **DSP sequence**
 
 ```math
-x = X(n)
+x = { x[n] }, -\infty < n < \infty 
 ```
 
 # References
 
 - [ ] [Writing mathematical expressions](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
+- [ ] [LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 
 ```
