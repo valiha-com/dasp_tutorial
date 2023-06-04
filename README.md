@@ -40,7 +40,7 @@ x = \{ x[n] \}, -\infty < n < \infty and x[n] = x_a ( nT ), -\infty < n < \infty
 ```
 
 ```math
-=> x[n] = x(n)_|_t=nT_s
+=> x[n] = x(n)|_t=nT_s
 ```
 
 
