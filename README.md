@@ -48,7 +48,12 @@ x[n] = x_a ( nT ), -\infty < n < \infty
 => x[n] = x(t)|_t=nT_s
 ```
 
+---
+**NOTE**
 
+It works with almost all markdown flavours (the below blank line matters).
+
+---
 
 
 - [ ] [Discrete-time signal processing basics](https://signalprocessingsystems.netlify.app/disciplines/discrete/discretesignalprocessing_main/)
