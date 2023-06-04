@@ -55,7 +55,7 @@ x[n] = x_a ( nT ), -\infty < n < \infty
 
 
 ```math
-x(t) = cos(2 \pi . 400t) @ f_s = 1/T_s  f(n) = n^5 + 4n^2 + 2 |_{n=17}
+x(t) = cos(2 \pi . 400t) @ f_s = 1/T_s
 ```
 
 
