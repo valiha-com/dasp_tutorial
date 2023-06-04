@@ -39,6 +39,13 @@ cargo add dasp_signal dasp_sample
 x = \{ x[n] \}, -\infty < n < \infty and x[n] = x_a ( nT ), -\infty < n < \infty
 ```
 
+```math
+=> x[n] = x(n)_|_t=nT_s
+```
+
+
+
+
 - [ ] [Discrete-time signal processing basics](https://signalprocessingsystems.netlify.app/disciplines/discrete/discretesignalprocessing_main/)
 
 
