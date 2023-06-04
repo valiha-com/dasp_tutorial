@@ -55,7 +55,7 @@ x[n] = x_a ( nT ), -\infty < n < \infty
 
 
 ```math
-x(t) = cos(2 \pi . 400t) @ f_s = 1/T_s
+x(t) = cos(2 \pi . 400t) @ f_s = \rfrac{1}{T_s} 
 ```
 
 
