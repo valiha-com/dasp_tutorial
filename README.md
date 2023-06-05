@@ -61,7 +61,7 @@ x(t) = cos(2 \pi . 400t) @ f_s = 1/T_s
 
 ```mermaid
 flowchart LR
-   A == x(n) ==> B ==> x[n]
+   A == markdown["`  x(n) = x[n]  `"] ==> B ==> markdown["`  x(n) = x[n]  `"]
 ```
 
 ```mermaid
