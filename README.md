@@ -67,11 +67,12 @@ flowchart LR
 ```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
-    markdown["`  x(n) = x[n]  `"]
+    markdown["`  x(n)  `"]
     newLines["`Line1
     Line 2
     Line 3`"]
     markdown --> newLines
+    markdown["`  x(n)  `"]
 ```
 
 
