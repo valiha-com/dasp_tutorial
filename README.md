@@ -64,7 +64,7 @@ x(t) = cos(2 \pi . 400t) @ f_s = 1/T_s
 ```mermaid
 
 flowchart LR
-    markdown["`math  x(t) = cos(2 \pi . 400t) @ f_s = 1/T_s  `"]
+    markdown["`  x(n) = x[n]  `"]
     newLines["`Line1
     Line 2
     Line 3`"]
