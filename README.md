@@ -59,8 +59,10 @@ x(t) = cos(2 \pi . 400t) @ f_s = 1/T_s
 
 ---
 
-```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
+
+```mermaid
+
 flowchart LR
     markdown["`This **is** _Markdown_`"]
     newLines["`Line1
