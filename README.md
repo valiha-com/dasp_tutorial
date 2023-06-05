@@ -66,7 +66,10 @@ flowchart LR
     newLines["`Line1
     Line 2
     Line 3`"]
-    markdown["`  x(n)  `"] --> newLines
+    markdown["`  x(n)  `"] --> 
+    newLines["`Line1
+    Line 2
+    Line 3`"]
 ```
 
 
