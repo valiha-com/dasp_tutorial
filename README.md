@@ -60,18 +60,13 @@ x(t) = cos(2 \pi . 400t) @ f_s = 1/T_s
 ---
 
 ```mermaid
-flowchart LR
-   A == markdown["`  x(n) = x[n]  `"] ==> B ==> markdown["`  x(n) = x[n]  `"]
-```
-
-```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
     markdown["`  x(n)  `"]
     newLines["`Line1
     Line 2
     Line 3`"]
-    markdown --> newLines
+    newLines
     markdown["`  x(n)  `"]
 ```
 
