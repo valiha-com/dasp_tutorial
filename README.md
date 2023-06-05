@@ -59,7 +59,10 @@ x(t) = cos(2 \pi . 400t) @ f_s = 1/T_s
 
 ---
 
-
+```mermaid
+flowchart LR
+   == x(n) ==> B ==> x[n]
+```
 
 ```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
