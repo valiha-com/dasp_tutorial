@@ -84,5 +84,6 @@ flowchart LR
 - [ ] [Writing mathematical expressions](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
 - [ ] [LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 - [ ] [Prof. Alan V. Oppenheim | 6.341 | Fall 2005 | Graduate Discrete-Time Signal Processing](https://ocw.mit.edu/courses/6-341-discrete-time-signal-processing-fall-2005/)
+- [ ] [Deepa Kundur UofT Courses DSP, Stat](https://www.comm.utoronto.ca/~dkundur/course)
 
 ```
